@@ -5,16 +5,43 @@
     display: block;
 }
 
-table,th,td{
+table {
+    border-collapse: collapse;
+    width: 500px;
+}
+
+th,td {
     border: 1px solid black;
+    text-align: center;
+}
+
+
+td {
     color: grey;
+    text-align: center；
+    height: 50px;
+    
 }
 
 body {
-    width: 100%;
+    margin: auto;
+    width: 500px;
     background: #eee;
 }
 
 th,td {
     height: 20px;
+}
+
+h1,p {
+    text-align: center;
+}
+
+#date {
+    color: grey;
+    font-size: 13px;
+}
+#name {
+    color: grey;
+    font-size: 20px;
 }
