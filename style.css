@@ -1,0 +1,20 @@
+/*style.css*/
+
+.ul {
+    margin: auto;
+    display: block;
+}
+
+table,th,td{
+    border: 1px solid black;
+    color: grey;
+}
+
+body {
+    width: 100%;
+    background: #eee;
+}
+
+th,td {
+    height: 20px;
+}
