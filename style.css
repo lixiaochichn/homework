@@ -1,18 +1,17 @@
 /*style.css*/
-
-.ul {
-    margin: auto;
-    display: block;
+h1 {
+    text-align: center;
 }
 
 table {
     border-collapse: collapse;
-    width: 500px;
+    width: 600px;
 }
 
 th,td {
     border: 1px solid black;
     text-align: center;
+    height: 50px;
 }
 
 
@@ -25,7 +24,7 @@ td {
 
 body {
     margin: auto;
-    width: 500px;
+    width: 600px;
     background: #eee;
 }
 
