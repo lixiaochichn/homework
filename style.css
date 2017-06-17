@@ -10,10 +10,10 @@ table {
     margin-right: auto;
 }
 
-th,td {
+tr,th,td {
     border: 1px solid black;
     text-align: center;
-    height: 50px;
+    height: 30px;
 }
 
 
@@ -29,9 +29,6 @@ body {
     background: #eee;
 }
 
-th,td {
-    height: 20px;
-}
 
 #date,#mail,#name {
     text-align: center;
