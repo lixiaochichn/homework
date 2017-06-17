@@ -5,7 +5,9 @@ h1 {
 
 table {
     border-collapse: collapse;
-    width: 600px;
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 th,td {
@@ -23,8 +25,7 @@ td {
 }
 
 body {
-    margin: auto;
-    width: 600px;
+    width: 100%;
     background: #eee;
 }
 
